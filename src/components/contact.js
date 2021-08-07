@@ -9,6 +9,8 @@ class Contact extends Component {
                 <br /><br />
                 <p>charlene@peters-services.com  |  316-932-0245</p>
                 <br /><br />
+            
+            <p>Please note that the form is in the beta stage.</p>
 <Form>
   <Form.Row>
   <Form.Group as={Col} controlId="formName">
